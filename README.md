@@ -19,9 +19,11 @@ Cons:
 - Have BusyBox isntead of GNU coreutils, having simplified versions of the coreutils 
 - Maybe not good for daily use. 
 
-[ Read supported devices here](https://wiki.postmarketos.org/wiki/Devices#Main) 
-[Download here](https://postmarketos.org/install/) 
-How to install here 
+[Supported Devices](https://wiki.postmarketos.org/wiki/Devices#Main)
+
+[Download](https://postmarketos.org/install/)
+
+How to install
 
 2- GNU/Linux Debian (velvet-os framework)  
 
