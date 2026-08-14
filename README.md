@@ -7,8 +7,7 @@ PD: Get another device, either a phone or another laptop to follow the instructi
 ## Step 1: Enable developer mode  
 WARNING: This will erase all of your data, be sure of making a backup of your important data before doing this process.
 
-- Press esc + ⟳ + ⏻ (do not hold ⏻)
-
-![keyboard](https://github.com/madara1719/all-linux-for-arm-chromebook/blob/main/assets/keyboard.png)
-
-- When you're in the white screen, 
+White UI One:
+- [Tablet Like](//www.youtube.com/watch?v=fwS490capOA) 
+- [Laptop Like](https://www.wikihow.com/Enable-Developer-Mode-on-a-Chromebook)
+- [
