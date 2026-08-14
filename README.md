@@ -20,12 +20,11 @@ Cons:
 - Maybe not good for daily use. 
 
 [ Read supported devices here](https://wiki.postmarketos.org/wiki/Devices#Main) 
-
 [Download here](https://postmarketos.org/install/) 
-
 How to install here 
 
-2- GNU/Linux Debian (velvet-os framework) 
+2- GNU/Linux Debian (velvet-os framework)  
+
 A very stable OS made by thousands volunteers,one of the most used distros and from which distributions such as Ubuntu, Zorin OS and Linux Mint derive. 
 
 Pros 
