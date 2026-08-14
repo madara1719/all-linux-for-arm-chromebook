@@ -20,7 +20,9 @@ Cons:
 - Maybe not good for daily use. 
 
 [ Read supported devices here](https://wiki.postmarketos.org/wiki/Devices#Main) 
+
 [Download here](https://postmarketos.org/install/) 
+
 How to install here 
 
 2- GNU/Linux Debian (velvet-os framework) 
