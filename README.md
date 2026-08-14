@@ -9,6 +9,6 @@ WARNING: This will erase all of your data, be sure of making a backup before fol
 
 - Press esc + ⟳ + ⏻ (do not hold ⏻) 
 
-https://github.com/madara1719/all-linux-for-arm-chromebook/blob/main/assets/keyboard.png 
+![keyboard](https://github.com/madara1719/all-linux-for-arm-chromebook/blob/main/assets/keyboard.png)
 
 - When you're in the white screen, 
