@@ -8,6 +8,7 @@ PD: Get another device, either a phone or another laptop to follow the instructi
 WARNING: This will erase all of your data, be sure of making a backup before following this step (if you don't care about it, just continue).
 
 - Press esc + ⟳ + ⏻ (do not hold ⏻) 
+- Press in order from 1 to 3
 
 ![keyboard](https://github.com/madara1719/all-linux-for-arm-chromebook/blob/main/assets/keyboard.png)
 
