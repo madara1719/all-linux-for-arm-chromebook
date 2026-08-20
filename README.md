@@ -8,7 +8,7 @@ PD: Get another device, either a phone or another laptop to follow the instructi
 WARNING: This will erase all of your data, be sure of making a backup of your important data before doing this process.This may void your warranty too.
 
 White UI:
-- [Tablet](//www.youtube.com/watch?v=fwS490capOA) 
+- [Tablet](https://www.youtube.com/watch?v=qRQ9gBGmw3c&) 
 - [Laptop](https://www.wikihow.com/Enable-Developer-Mode-on-a-Chromebook)
 
  Dark UI: 
